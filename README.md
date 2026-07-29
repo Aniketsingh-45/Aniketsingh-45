@@ -16,7 +16,7 @@
 
 <p align="left">
   <!-- Indian/Brown Skin Tone Animated Coder Emoji -->
-  <img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Indian Animated Coder" />
+  <img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
 </p>
 
 - 🔭 **Currently Working On:** Creative and AI-driven projects like **ResuSmart** (an ATS-friendly resume builder), **AAPDA-MITRA** (AI-powered flood prediction dashboard), and a custom **Voice Assistant** integrated with Alexa features.

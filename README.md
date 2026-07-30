@@ -12,7 +12,7 @@
 
 <br/>
 
-### 🚀 About Me
+### 🚀 About 
 
 <p align="left">
   <!-- Indian/Brown Skin Tone Animated Coder Emoji -->

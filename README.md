@@ -66,16 +66,16 @@
 ### 📊 GitHub Stats, Streak & Activity
 
 <div align="center">
-  <!-- GitHub Streak using more reliable service -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aniketsingh-45&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <!-- GitHub Streak using DartPad/DeviantArt service -->
+  <img src="https://streak-stats.demolab.com?user=Aniketsingh-45&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Stats & Top Languages -->
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Aniketsingh-45&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Aniketsingh-45&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aniketsingh-45&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsingh-45&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>

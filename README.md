@@ -6,7 +6,7 @@
   
   <!-- Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=2ea043&center=true&vCenter=true&width=600&height=50&lines=B.Tech+CSE+Student;UI+%26+AI+Explorer;Building+Data-Driven+Projects;Vibe+Coding+Enthusiast" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=2ea043&center=true&vCenter=true&width=600&height=50&lines=B.Tech+CSE+Student;UI+%26+AI+Explorer;Building+AI+%26+Web+Magic!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,10 +16,10 @@
 
 <p align="left">
   <!-- Indian/Brown Skin Tone Animated Coder Emoji -->
-  <img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
+  <img align="right" width="280" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.gif" alt="Coder Emoji" />
 </p>
 
-- 🔭 **Currently Working On:** Creative and AI-driven projects like **ResuSmart** (an ATS-friendly resume builder), **AAPDA-MITRA** (AI-powered flood prediction dashboard), and a custom **Voice Assistant** integrated with Alexa features.
+- 🔭 **Currently Working On:** Creative and AI-driven projects like **ResuSmart** (an ATS-friendly resume builder), **AAPDA-MITRA** (AI-powered flood prediction dashboard), and a custom **Voice Assistant**.
 - 🌱 **Currently Learning:** The foundations of AI/ML engineering, while expanding my expertise in Python and crafting beautiful frontend designs.
 - 🏆 **Certifications:** Cisco Networking Academy Python Essentials 1.
 - 👯 **Looking to Collaborate On:** UI/UX designs, AI integrations, and projects that solve real-world problems.
@@ -66,8 +66,8 @@
 ### 📊 GitHub Stats, Streak & Activity
 
 <div align="center">
-  <!-- Fixed GitHub Streak (Using more stable Demolab server) -->
-  <img src="https://streak-stats.demolab.com?user=Aniketsingh-45&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <!-- GitHub Streak using more reliable service -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aniketsingh-45&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <br/>

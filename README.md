@@ -66,23 +66,25 @@
 ### 📊 GitHub Stats, Streak & Activity
 
 <div align="center">
-  <!-- GitHub Streak using DartPad/DeviantArt service -->
-  <img src="https://streak-stats.demolab.com?user=Aniketsingh-45&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketsingh-45&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Stats & Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aniketsingh-45&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsingh-45&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketsingh-45&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsingh-45&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketsingh-45&bg_color=00000000&color=e3b341&line=2ea043&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketsingh-45&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>

@@ -32,33 +32,33 @@
 
 <p align="center">
   <strong>💻 Core Programming & Web</strong><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black" height="35" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" height="35" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height="35" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" height="35" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="35" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="35" alt="CSS3" />
 </p>
 
 <p align="center">
   <strong>🤖 Data, AI & Machine Learning</strong><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" height="35" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white" height="35" alt="pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" height="35" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white" height="35" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white" height="35" alt="scikit-learn" />
 </p>
 
 <p align="center">
   <strong>🎨 Tools, Frameworks & Magic</strong><br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" /><br><br>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Prompt_Learning-8A2BE2?style=plastic&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-FF00FF?style=plastic&logo=huggingface&logoColor=white" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" height="35" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" height="35" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" height="35" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height="35" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="35" alt="GitHub" /><br><br>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white" height="35" alt="Canva" />
+  <img src="https://img.shields.io/badge/Prompt_Learning-8A2BE2?style=plastic&logo=openai&logoColor=white" height="35" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-FF00FF?style=plastic&logo=huggingface&logoColor=white" height="35" alt="Vibe Coding" />
 </p>
 
 <br/>
@@ -91,13 +91,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aniketsingh45" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/itz_aniketsingh_45/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
   <a href="mailto:aniketsingh4500@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white" height="35" alt="Email" />
   </a>
 </div>
 

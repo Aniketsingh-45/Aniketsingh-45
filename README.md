@@ -5,7 +5,7 @@
   <br/>
   
   <!-- Typing Headline -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/Aniketsingh-45">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=2ea043&center=true&vCenter=true&width=600&height=50&lines=B.Tech+CSE+Student;UI+%26+AI+Explorer;Building+Data-Driven+Projects;Vibe+Coding+Enthusiast" alt="Typing Headline" />
   </a>
 </div>
@@ -32,33 +32,27 @@
 
 <p align="center">
   <strong>💻 Core Programming & Web</strong><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- Beautiful Skillicon Stickers -->
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,html,css&theme=dark" alt="Core Programming" />
 </p>
 
 <p align="center">
   <strong>🤖 Data, AI & Machine Learning</strong><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <!-- Glossy 3D 'Plastic' style for the sticker effect -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
 <p align="center">
   <strong>🎨 Tools, UI & Magic</strong><br>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <br>
-  <img src="https://img.shields.io/badge/Prompt_Learning-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-FF00FF?style=for-the-badge&logo=huggingface&logoColor=white" alt="Vibe Coding" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark" alt="Tools" /><br><br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Prompt_Learning-8A2BE2?style=plastic&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-FF00FF?style=plastic&logo=huggingface&logoColor=white" alt="Vibe Coding" />
 </p>
 
 <br/>
@@ -75,22 +69,27 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Aniketsingh-45&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aniketsingh-45&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Stats & Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aniketsingh-45&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsingh-45&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <!-- Stats & Top Languages Fixed: Removed height constraint, wrapped in A tags for better SVG rendering -->
+  <a href="https://github.com/Aniketsingh-45">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniketsingh-45&show_icons=true&theme=radical&hide_border=true&border_radius=10&title_color=E3B341" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aniketsingh-45">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsingh-45&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=E3B341&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketsingh-45&bg_color=0D1117&color=e3b341&line=2ea043&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketsingh-45&bg_color=0D1117&color=e3b341&line=2ea043&point=ffffff&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -99,13 +98,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aniketsingh45" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/itz_aniketsingh_45/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
   <a href="mailto:aniketsingh4500@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
   </a>
 </div>
 

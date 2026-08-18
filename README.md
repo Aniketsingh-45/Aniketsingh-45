@@ -87,7 +87,7 @@
 
 <br/>
 
-### 🔗 Let's Connect!
+### 🔗 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aniketsingh45" target="_blank">

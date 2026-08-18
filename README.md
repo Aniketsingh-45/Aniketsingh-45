@@ -12,7 +12,7 @@
 
 <br/>
 
-### 🚀 About Me 
+### 🚀 About My Section
 
 <p align="left">
   <!-- Permanent CDN Link for Coder Emoji -->

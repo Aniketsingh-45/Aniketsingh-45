@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-<img align="right" width="220" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
+<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
 
 Hi! I am a **B.Tech Computer Science student** passionate about bridging the gap between data-driven logic and engaging user experiences. 
 

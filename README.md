@@ -14,12 +14,7 @@
 
 ### 🚀 About Me
 
-<div align="center">
-  <!-- Centered Coder Emoji to fix mobile glitch -->
-  <img width="220" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
-</div>
-
-<br/>
+<img align="right" width="25%" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
 
 As a B.Tech Computer Science student, I am passionate about bridging the gap between data-driven logic and engaging user experiences. My primary focus centers on **Python programming** and **frontend web design**, building solutions that are both functional and visually compelling. I actively leverage modern AI tools and prompt engineering to accelerate development and build smarter projects, faster.
 

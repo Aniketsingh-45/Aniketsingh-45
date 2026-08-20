@@ -21,10 +21,16 @@
 
 As a B.Tech Computer Science student, I am passionate about bridging the gap between data-driven logic and engaging user experiences. My primary focus centers on **Python programming** and **frontend web design**, allowing me to build solutions that are both highly functional and visually compelling. I am a quick learner who actively leverages modern AI tools and prompt engineering to accelerate development and build smarter projects, faster. 
 
+<br/>
+
 - 🔭 **Current Focus:** Building creative, AI-driven solutions like **ResuSmart** (an intuitive resume builder), **AAPDA-MITRA** (an AI-powered flood prediction dashboard), and a fully functional custom **Voice Assistant**.
+<br/>
 - 🌱 **Always Learning:** Expanding my foundation in AI/ML concepts while continuously refining my Python proficiency and crafting beautiful frontend interfaces.
+<br/>
 - 💡 **Tech Philosophy:** I believe in utilizing advanced AI tools to streamline the development process and generate highly specific, creative assets for modern web design.
+<br/>
 - 🤝 **Open to Collaborate:** Seeking opportunities to partner on impactful UI/UX designs, innovative AI integrations, and real-world problem-solving initiatives.
+<br/>
 - ⚡ **Off-Screen:** When I'm not coding or fine-tuning AI-generated art, I'm likely watching a gripping mystery, diving into real-story military films, or drawing inspiration from the classic movie, *Anand*.
 
 <br/>
@@ -32,6 +38,9 @@ As a B.Tech Computer Science student, I am passionate about bridging the gap bet
 ### 🏆 Certifications & Achievements
 
 <ul>
+  <li><strong>AI-Machine Learning Engineer Certificate Course</strong> — <em>Reliance Foundation Skilling Academy</em></li>
+  <li><strong>TCS iON Career Edge - Young Professional</strong> — <em>TCS iON</em></li>
+  <li><strong>TCS iON Career Edge - IT Primer</strong> — <em>TCS iON</em></li>
   <li><strong>Artificial Intelligence & Machine Learning</strong> — <em>C-DAC (Centre for Development of Advanced Computing)</em></li>
   <li><strong>Python Essentials 1</strong> — <em>Cisco Networking Academy</em></li>
 </ul>
@@ -67,6 +76,7 @@ As a B.Tech Computer Science student, I am passionate about bridging the gap bet
   <strong>🎨 Frameworks, Tools & Magic</strong><br><br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />

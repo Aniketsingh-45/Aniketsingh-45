@@ -14,13 +14,12 @@
 
 ### 🚀 About Me
 
-<img align="right" width="300" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
+<p align="left">
+  <!-- Coder Emoji (Adjusted to 230px to balance PC & Mobile) -->
+  <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
+</p>
 
-Hi! I am a **B.Tech Computer Science student** passionate about bridging the gap between data-driven logic and engaging user experiences. 
-
-My primary focus centers on **Python programming** and **frontend web design**. I love building solutions that are both highly functional and visually compelling. 
-
-I also actively leverage modern AI tools and prompt engineering to accelerate development and build smarter projects, faster.
+As a B.Tech Computer Science student, I am passionate about bridging the gap between data-driven logic and engaging user experiences. My primary focus centers on **Python programming** and **frontend web design**, building solutions that are both functional and visually compelling. I actively leverage modern AI tools and prompt engineering to accelerate development and build smarter projects, faster.
 
 - 🔭 **Current Focus:** Building creative, AI-driven solutions like **ResuSmart**, **AAPDA-MITRA**, and a custom **Voice Assistant**.
 <br/>

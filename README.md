@@ -12,6 +12,7 @@
 
 <br/>
 
+
 ### 🚀 About Me
 
 <p align="left">
@@ -19,12 +20,14 @@
   <img align="right" width="280" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
 </p>
 
-- 🔭 **Currently Working On:** Creative and AI-driven projects like **ResuSmart** (an ATS-friendly resume builder), **AAPDA-MITRA** (AI-powered flood prediction dashboard), and a custom **Voice Assistant** integrated with Alexa features.
-- 🌱 **Currently Learning:** The foundations of AI/ML engineering, while expanding my expertise in Python and crafting beautiful frontend designs.
-- 🏆 **Certifications:** Cisco Networking Academy Python Essentials 1.
-- 👯 **Looking to Collaborate On:** UI/UX designs, AI integrations, and projects that solve real-world problems.
-- 💬 **Ask Me About:** Python programming, frontend UI design, and leveraging AI tools for project generation!
-- ⚡ **Fun Fact:** When I'm not coding or generating AI art assets, you can usually find me watching a good mystery film, a real-story military movie, or re-watching the classic *Anand*.
+As a B.Tech Computer Science student, I am passionate about bridging the gap between data-driven logic and engaging user experiences. My primary focus centers on **Python programming** and **frontend web design**, allowing me to build solutions that are both highly functional and visually compelling. I am a quick learner who actively leverages modern AI tools and prompt engineering to accelerate development and build smarter projects, faster. 
+
+- 🔭 **Current Focus:** Building creative, AI-driven solutions like **ResuSmart** (an intuitive resume builder), **AAPDA-MITRA** (an AI-powered flood prediction dashboard), and a fully functional custom **Voice Assistant**.
+- 🌱 **Always Learning:** Expanding my foundation in AI/ML concepts while continuously refining my Python proficiency and crafting beautiful frontend interfaces.
+- 🎓 **Academics & Certifications:** Pursuing my B.Tech in Computer Science and proudly certified in **Python Essentials 1 by Cisco Networking Academy**.
+- 💡 **Tech Philosophy:** I believe in utilizing advanced AI tools to streamline the development process and generate highly specific, creative assets for modern web design.
+- 🤝 **Open to Collaborate:** Seeking opportunities to partner on impactful UI/UX designs, innovative AI integrations, and real-world problem-solving initiatives.
+- ⚡ **Off-Screen:** When I'm not coding or fine-tuning AI-generated art, I'm likely watching a gripping mystery, diving into real-story military films, or drawing inspiration from the classic movie, *Anand*.
 
 <br/>
 

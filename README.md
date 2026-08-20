@@ -14,23 +14,24 @@
 
 ### 🚀 About Me
 
-<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
-
-As&nbsp;a&nbsp;B.Tech&nbsp;Computer&nbsp;Science student, I am passionate about bridging the gap between data-driven logic and engaging user experiences. My primary focus centers on **Python programming** and **frontend web design**, building solutions that are both functional and visually compelling. I actively leverage modern AI tools and prompt engineering to accelerate development and build smarter projects, faster.
-
-- 🔭 **Current Focus:** Building creative, AI-driven solutions like **ResuSmart**, **AAPDA-MITRA**, and a custom **Voice Assistant**.
-<br/>
-
-- 🌱 **Always Learning:** Expanding my foundation in AI/ML concepts while refining my Python and frontend skills.
-<br/>
-
-- 💡 **Tech Philosophy:** Utilizing advanced AI tools to streamline development and generate specific, creative assets.
-<br/>
-
-- 🤝 **Open to Collaborate:** Seeking opportunities for impactful UI/UX designs, AI integrations, and problem-solving initiatives.
-<br/>
-
-- ⚡ **Off-Screen:** When not coding, I'm likely watching a gripping mystery, diving into real-story military films, or enjoying the classic movie, *Anand*.
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      As a B.Tech Computer Science student, I am passionate about bridging the gap between data-driven logic and engaging user experiences. My primary focus centers on <strong>Python programming</strong> and <strong>frontend web design</strong>, building solutions that are both functional and visually compelling. I actively leverage modern AI tools and prompt engineering to accelerate development and build smarter projects, faster.
+      <br><br>
+      <ul>
+        <li>🔭 <strong>Current Focus:</strong> Building creative, AI-driven solutions like <strong>ResuSmart</strong>, <strong>AAPDA-MITRA</strong>, and a custom <strong>Voice Assistant</strong>.</li><br>
+        <li>🌱 <strong>Always Learning:</strong> Expanding my foundation in AI/ML concepts while refining my Python and frontend skills.</li><br>
+        <li>💡 <strong>Tech Philosophy:</strong> Utilizing advanced AI tools to streamline development and generate specific, creative assets.</li><br>
+        <li>🤝 <strong>Open to Collaborate:</strong> Seeking opportunities for impactful UI/UX designs, AI integrations, and problem-solving initiatives.</li><br>
+        <li>⚡ <strong>Off-Screen:</strong> When not coding, I'm likely watching a gripping mystery, diving into real-story military films, or enjoying the classic movie, <em>Anand</em>.</li>
+      </ul>
+    </td>
+    <td valign="top" align="center" width="30%">
+      <img width="280" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 

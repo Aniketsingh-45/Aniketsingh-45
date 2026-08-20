@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 <div align="center">
-  <!-- Permanent CDN Link for Coder Emoji -->
+  <!-- Centered Coder Emoji to fix mobile glitch -->
   <img width="220" src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Indian Animated Coder" />
 </div>
 
@@ -36,6 +36,8 @@ As a B.Tech Computer Science student, I am passionate about bridging the gap bet
 <br/>
 
 - ⚡ **Off-Screen:** When not coding, I'm likely watching a gripping mystery, diving into real-story military films, or enjoying the classic movie, *Anand*.
+
+<br/>
 
 ### 🏆 Certifications & Achievements
 

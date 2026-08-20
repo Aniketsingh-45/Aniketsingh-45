@@ -12,7 +12,6 @@
 
 <br/>
 
-
 ### 🚀 About Me
 
 <p align="left">
@@ -24,43 +23,56 @@ As a B.Tech Computer Science student, I am passionate about bridging the gap bet
 
 - 🔭 **Current Focus:** Building creative, AI-driven solutions like **ResuSmart** (an intuitive resume builder), **AAPDA-MITRA** (an AI-powered flood prediction dashboard), and a fully functional custom **Voice Assistant**.
 - 🌱 **Always Learning:** Expanding my foundation in AI/ML concepts while continuously refining my Python proficiency and crafting beautiful frontend interfaces.
-- 🎓 **Academics & Certifications:** Pursuing my B.Tech in Computer Science and proudly certified in **Python Essentials 1 by Cisco Networking Academy**.
 - 💡 **Tech Philosophy:** I believe in utilizing advanced AI tools to streamline the development process and generate highly specific, creative assets for modern web design.
 - 🤝 **Open to Collaborate:** Seeking opportunities to partner on impactful UI/UX designs, innovative AI integrations, and real-world problem-solving initiatives.
 - ⚡ **Off-Screen:** When I'm not coding or fine-tuning AI-generated art, I'm likely watching a gripping mystery, diving into real-story military films, or drawing inspiration from the classic movie, *Anand*.
 
 <br/>
 
+### 🏆 Certifications & Achievements
+
+<ul>
+  <li><strong>Artificial Intelligence & Machine Learning</strong> — <em>C-DAC (Centre for Development of Advanced Computing)</em></li>
+  <li><strong>Python Essentials 1</strong> — <em>Cisco Networking Academy</em></li>
+</ul>
+
+<br/>
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <strong>💻 Core Programming & Web</strong><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <strong>💻 Core Programming & Web</strong><br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+<br/>
+
 <p align="center">
-  <strong>🤖 Data, AI & Machine Learning</strong><br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <strong>🤖 Data, AI & Machine Learning</strong><br><br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
 </p>
 
+<br/>
+
 <p align="center">
-  <strong>🎨 Tools, Frameworks & Magic</strong><br>
+  <strong>🎨 Frameworks, Tools & Magic</strong><br><br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br><br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <br><br>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Prompt_Learning-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Vibe%20Coding-FF00FF?style=for-the-badge&logo=huggingface&logoColor=white" alt="Vibe Coding" />
 </p>
 

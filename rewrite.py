@@ -1,57 +1,68 @@
 import re
 
-# Tech stack items categorized into 3 clean rows of 9 items each (27 items)
-items = [
-    # Row 1: Core Programming & Languages
-    ('Python', 'https://skillicons.dev/icons?i=python'),
-    ('Java', 'https://skillicons.dev/icons?i=java'),
-    ('C', 'https://skillicons.dev/icons?i=c'),
-    ('JavaScript', 'https://skillicons.dev/icons?i=js'),
-    ('HTML5', 'https://skillicons.dev/icons?i=html'),
-    ('CSS3', 'https://skillicons.dev/icons?i=css'),
-    ('Git', 'https://skillicons.dev/icons?i=git'),
-    ('GitHub', 'https://skillicons.dev/icons?i=github'),
-    ('Bash', 'https://skillicons.dev/icons?i=bash'),
-
-    # Row 2: AI, Machine Learning & Data Science
-    ('TensorFlow', 'https://skillicons.dev/icons?i=tensorflow'),
-    ('PyTorch', 'https://skillicons.dev/icons?i=pytorch'),
-    ('Scikit-learn', 'https://skillicons.dev/icons?i=sklearn'),
-    ('OpenCV', 'https://skillicons.dev/icons?i=opencv'),
-    ('Keras', 'https://cdn.simpleicons.org/keras/D00000'),
-    ('Pandas', 'https://cdn.simpleicons.org/pandas/150458'),
-    ('NumPy', 'https://cdn.simpleicons.org/numpy/013243'),
-    ('AI / Prompts', 'https://skillicons.dev/icons?i=ai'),
-    ('Jupyter', 'https://skillicons.dev/icons?i=jupyter'),
-
-    # Row 3: Frameworks, Platforms & Tools
-    ('FastAPI', 'https://skillicons.dev/icons?i=fastapi'),
-    ('Streamlit', 'https://skillicons.dev/icons?i=streamlit'),
-    ('Docker', 'https://skillicons.dev/icons?i=docker'),
-    ('VS Code', 'https://skillicons.dev/icons?i=vscode'),
-    ('MySQL', 'https://skillicons.dev/icons?i=mysql'),
-    ('Canva', 'https://skillicons.dev/icons?i=canva'),
-    ('Linux', 'https://skillicons.dev/icons?i=linux'),
-    ('Postman', 'https://skillicons.dev/icons?i=postman'),
-    ('PowerShell', 'https://skillicons.dev/icons?i=powershell')
+# Categorized tech stack data
+# Linux, Bash, and Postman removed per requirements
+# Seaborn, XGBoost, Jupyter, and Streamlit verified and active
+categories = [
+    ('Artificial Intelligence, Machine Learning & Data Science', 'https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Robot.png', [
+        ('PyTorch', 'https://skillicons.dev/icons?i=pytorch'),
+        ('TensorFlow', 'https://skillicons.dev/icons?i=tensorflow'),
+        ('Scikit-learn', 'https://skillicons.dev/icons?i=sklearn'),
+        ('XGBoost', 'https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png'),
+        ('Keras', 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg'),
+        ('Pandas', 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg'),
+        ('NumPy', 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'),
+        ('Seaborn', 'https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.svg'),
+        ('OpenCV', 'https://skillicons.dev/icons?i=opencv'),
+        ('Jupyter', 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg')
+    ]),
+    ('Programming Languages & Modern Web Architecture', 'https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Laptop.png', [
+        ('Python', 'https://skillicons.dev/icons?i=python'),
+        ('Java', 'https://skillicons.dev/icons?i=java'),
+        ('C', 'https://skillicons.dev/icons?i=c'),
+        ('JavaScript', 'https://skillicons.dev/icons?i=js'),
+        ('HTML5', 'https://skillicons.dev/icons?i=html'),
+        ('CSS3', 'https://skillicons.dev/icons?i=css'),
+        ('FastAPI', 'https://skillicons.dev/icons?i=fastapi'),
+        ('Streamlit', 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg')
+    ]),
+    ('Cloud, DevOps & Developer Workflow', 'https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Gear.png', [
+        ('Git', 'https://skillicons.dev/icons?i=git'),
+        ('GitHub', 'https://skillicons.dev/icons?i=github'),
+        ('Docker', 'https://skillicons.dev/icons?i=docker'),
+        ('VS Code', 'https://skillicons.dev/icons?i=vscode'),
+        ('MySQL', 'https://skillicons.dev/icons?i=mysql'),
+        ('PowerShell', 'https://skillicons.dev/icons?i=powershell'),
+        ('AI / Prompts', 'https://skillicons.dev/icons?i=ai')
+    ])
 ]
 
 def generate_table_html():
-    cols_per_row = 9
-    html = '<div align="center">\n    <table align="center">\n'
-    for i, (name, icon_url) in enumerate(items):
-        if i % cols_per_row == 0:
-            html += '        <tr>\n'
+    html = '<div align="center">\n'
+    for title, emoji_url, items in categories:
+        html += f'\n  <h4 align="center">\n'
+        html += f'    <img src="{emoji_url}" width="24" style="vertical-align:middle;" />\n'
+        html += f'    {title}\n'
+        html += f'  </h4>\n'
+        html += '  <table align="center">\n'
         
-        html += f'            <td align="center" width="96">\n'
-        html += f'                <img src="{icon_url}" width="48" height="48" alt="{name}" />\n'
-        html += f'                <br><sub><b>{name}</b></sub>\n'
-        html += f'            </td>\n'
-        
-        if i % cols_per_row == (cols_per_row - 1) or i == len(items) - 1:
-            html += '        </tr>\n'
+        # Determine items per row: if 10 items, do 5x2, else all in 1 row
+        cols = 5 if len(items) == 10 else len(items)
+        for i, (name, icon_url) in enumerate(items):
+            if i % cols == 0:
+                html += '    <tr>\n'
             
-    html += '    </table>\n</div>'
+            style_attr = ' style="object-fit: contain;"' if 'xgboost' in icon_url else ''
+            width_attr = '56' if 'xgboost' in icon_url else '48'
+            html += f'      <td align="center" width="108">\n'
+            html += f'        <img src="{icon_url}" width="{width_attr}" height="48"{style_attr} alt="{name}" />\n'
+            html += f'        <br><sub><b>{name}</b></sub>\n'
+            html += f'      </td>\n'
+            
+            if i % cols == (cols - 1) or i == len(items) - 1:
+                html += '    </tr>\n'
+        html += '  </table>\n'
+    html += '\n</div>'
     return html
 
 if __name__ == '__main__':

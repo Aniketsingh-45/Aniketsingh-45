@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Aniketsingh-45">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=180&section=header&text=Hi%2C%20I%27m%20Aniket%20Singh%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20%7C%20Reliance%20Foundation%20AI%2FML%20Certified%20%7C%20Vibe%20Coder&descSize=17&descAlignY=68" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=180&section=header&text=Hi%2C%20I%27m%20Aniket%20Singh%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20%7C%20Reliance%20Foundation%20AI%2FML%20Certified%20%7C%20AI/ML%20Engineer&descSize=17&descAlignY=68" width="100%"/>
   </a>
 </div>
 

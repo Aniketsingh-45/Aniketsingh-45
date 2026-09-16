@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Aniketsingh-45">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=180&section=header&text=Hi%2C%20I%27m%20Aniket%20Singh%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20%7C%20Reliance%20Foundation%20AI%2FML%20Certified%20%7C%20AI/ML%20Engineer&descSize=17&descAlignY=68" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=180&section=header&text=Hi%2C%20I%27m%20Aniket%20Singh%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&desc=B.Tech%20CSE%20%7C%20Reliance%20Foundation%20AI%2FML%20Certified%20%7C%20AI/ML%20Student&descSize=17&descAlignY=68" width="100%"/>
   </a>
 </div>
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/Aniketsingh-45">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FE&width=435&lines=Aniket+Singh;Software+Explorer;AI+%26+ML+Engineer" alt="Aniket Singh" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FE&width=435&lines=Aniket+Singh;Software+Explorer;AI+%26+ML+Student" alt="Aniket Singh" />
   </a>
   <a href="https://github.com/Aniketsingh-45">
     <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+Student;AI+%26+ML+Explorer;Full+Stack+%26+Vibe+Coding;Always+Building+%26+Learning&font=Fira%20Code&center=true&width=440&height=45&color=FE428E&vCenter=true&pause=1000&size=22" alt="Aniket Headline" />

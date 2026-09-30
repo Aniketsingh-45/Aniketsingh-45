@@ -49,7 +49,7 @@ As a B.Tech Computer Science student, I am passionate about bridging the gap bet
 
 I actively champion **prompt engineering** and **vibe coding** to dramatically accelerate full-stack development cycles and construct smart, agile solutions.
 
-- 🔭 **Current Focus:** Building AI-driven systems including **ResuSmart**, **AAPDA-MITRA**, and a custom **Voice Assistant**.
+- 🔭**Current Focus:** Building AI-driven systems including **ResuSmart**, **AAPDA-MITRA**, and a custom **Voice Assistant**.
 - 🌱 **Continuous Learning:** Exploring deep learning architectures, Large Language Models (LLMs), and scalable web APIs.
 - 💡 **Tech Philosophy:** Combining cutting-edge AI assistance with clean code principles to solve real-world problems.
 - 🤝 **Open to Collaborate:** Available for AI/ML projects, intuitive UI/UX design, and innovative software initiatives.

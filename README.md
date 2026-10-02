@@ -39,21 +39,17 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 <p align="left">
-  <img align="right" width="220" style="border-radius: 16px; margin-left: 20px; border: 2px solid #FE428E; box-shadow: 0 8px 24px rgba(254, 66, 142, 0.35);" src="./IMG_20260721_231534.jpg.jpg" alt="Aniket Singh" />
+  <img align="right" width="200" style="border-radius: 12px; margin-left: 20px; border: 2px solid #FE428E;" src="./IMG_20260721_231534.jpg.jpg" alt="Aniket Singh" />
 </p>
 
-As a B.Tech Computer Science student, I am passionate about bridging the gap between data-driven machine learning algorithms and intuitive user experiences. My core focus revolves around **Python programming**, **modern frontend web design**, and **intelligent AI/ML architectures**, engineering solutions that are both technically robust and visually compelling.
+B.Tech Computer Science student specializing in Python, machine learning workflows, and full-stack development. I focus on developing clean, practical AI solutions and data-driven web applications.
 
-I actively champion **prompt engineering** and **vibe coding** to dramatically accelerate full-stack development cycles and construct smart, agile solutions.
-
-- 🔭**Current Focus:** Building AI-driven systems including **ResuSmart**, **AAPDA-MITRA**, and a custom **Voice Assistant**.
-- 🌱 **Continuous Learning:** Exploring deep learning architectures, Large Language Models (LLMs), and scalable web APIs.
-- 💡 **Tech Philosophy:** Combining cutting-edge AI assistance with clean code principles to solve real-world problems.
-- 🤝 **Open to Collaborate:** Available for AI/ML projects, intuitive UI/UX design, and innovative software initiatives.
-- ⚡ **Off-Screen:** When I'm not writing code, you'll find me analyzing suspense mystery films, diving into military documentaries, or rewatching the classic movie, *Anand*.
+- **Current Focus:** AI-driven applications, scalable APIs, and intelligent workflow automation.
+- **Interests:** Deep learning, Large Language Models (LLMs), and modern system design.
+- **Collaboration:** Open to AI/ML engineering, software development, and open-source initiatives.
 
 <br clear="all" />
 
@@ -68,7 +64,7 @@ I actively champion **prompt engineering** and **vibe coding** to dramatically a
       <th align="left">Description</th>
       <th align="center">Tech Stack</th>
       <th align="center">Explore</th>
-    </tr>A
+    </tr>
     <tr>
       <td align="center"><b>🎯 ResuSmart</b></td>
       <td>Smart resume analysis and skill-matching engine that scores resumes against target job descriptions with actionable feedback.</td>
@@ -99,7 +95,7 @@ I actively champion **prompt engineering** and **vibe coding** to dramatically a
 
   <!-- Animated Live Skills Stream -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F2FE&center=true&vCenter=true&width=720&height=38&lines=%E2%9A%A1+Deep+Learning+%26+Neural+Nets%3A+PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+Keras;%F0%9F%A7%A0+Predictive+ML+%26+Boosting%3A+Scikit-Learn+%E2%80%A2+XGBoost;%F0%9F%93%8A+Data+Intelligence+%26+Stats%3A+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Seaborn+%E2%80%A2+Jupyter;%F0%9F%94%8D+Computer+Vision+%26+AI%3A+OpenCV+%E2%80%A2+Prompt+Engineering+%E2%80%A2+LLMs;%F0%9F%9A%80+Full-Stack+Web+%26+APIs%3A+FastAPI+%E2%80%A2+Streamlit+%E2%80%A2+Python+%E2%80%A2+MySQL;%F0%9F%9B%A0%EF%B8%8F+DevOps+%26+Environment%3A+Docker+%E2%80%A2+Git+%E2%80%A2+GitHub+%E2%80%A2+VS+Code+%E2%80%A2+PowerShell" alt="Animated Skills Stream" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F2FE&center=true&vCenter=true&width=720&height=38&lines=%E2%9A%A1+Deep+Learning+%26+Neural+Nets%3A+PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+Keras;%F0%9F%A7%A0+Predictive+ML+%26+Boosting%3A+Scikit-Learn+%E2%80%A2+XGBoost;%F0%9F%93%8A+Data+Intelligence+%26+Stats%3A+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Seaborn+%E2%80%A2+Jupyter;%F0%9F%94%8D+Intelligent+Systems%3A+Prompt+Engineering+%E2%80%A2+LLMs;%F0%9F%9A%80+Full-Stack+Web+%26+APIs%3A+FastAPI+%E2%80%A2+Streamlit+%E2%80%A2+Python+%E2%80%A2+PostgreSQL;%F0%9F%9B%A0%EF%B8%8F+DevOps+%26+Environment%3A+Docker+%E2%80%A2+Git+%E2%80%A2+GitHub+%E2%80%A2+VS+Code+%E2%80%A2+PowerShell" alt="Animated Skills Stream" />
   </p>
 </div>
 
@@ -112,47 +108,47 @@ I actively champion **prompt engineering** and **vibe coding** to dramatically a
   </h4>
   <table align="center">
     <tr>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
         <br><sub><b>PyTorch</b></sub>
       </td>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
         <br><sub><b>TensorFlow</b></sub>
       </td>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
         <br><sub><b>Scikit-learn</b></sub>
       </td>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="56" height="48" style="object-fit: contain;" alt="XGBoost" />
         <br><sub><b>XGBoost</b></sub>
       </td>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
         <br><sub><b>Keras</b></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
         <br><sub><b>Pandas</b></sub>
       </td>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
         <br><sub><b>NumPy</b></sub>
       </td>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-darkbg.svg" width="48" height="48" alt="Seaborn" />
         <br><sub><b>Seaborn</b></sub>
       </td>
-      <td align="center" width="108">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-        <br><sub><b>OpenCV</b></sub>
-      </td>
-      <td align="center" width="108">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
         <br><sub><b>Jupyter</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="LLMs & Prompts" />
+        <br><sub><b>LLMs &amp; Prompts</b></sub>
       </td>
     </tr>
   </table>
@@ -221,16 +217,12 @@ I actively champion **prompt engineering** and **vibe coding** to dramatically a
         <br><sub><b>VS Code</b></sub>
       </td>
       <td align="center" width="108">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br><sub><b>MySQL</b></sub>
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br><sub><b>PostgreSQL</b></sub>
       </td>
       <td align="center" width="108">
         <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
         <br><sub><b>PowerShell</b></sub>
-      </td>
-      <td align="center" width="108">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI / Prompts" />
-        <br><sub><b>AI / Prompts</b></sub>
       </td>
     </tr>
   </table>
@@ -349,6 +341,3 @@ I actively champion **prompt engineering** and **vibe coding** to dramatically a
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=100&section=footer" width="100%"/>
 </div>
-
-
-make the about me section short remove emoji make it clear and remove open cv, and mysql add postresql , give full code

@@ -39,17 +39,17 @@
 
 ---
 
-## About Me
+## ⚡ About Me
 
-I am a Computer Science and Engineering undergraduate focused on bridging practical machine learning systems with dependable software architecture. My work centers on building end-to-end applications where data processing, predictive modeling, and user interfaces connect into coherent products.
+Hey, I'm **Aniket**! 👋  
+A Computer Science student who genuinely enjoys turning ideas into working code. Most of my time goes into experimenting with **Machine Learning models** 🧠, designing snappy **FastAPI backends** ⚡, and crafting smooth user experiences. 
 
-I build primarily with Python, modern web frameworks, and relational database systems, pairing AI capabilities with clean software design principles. Rather than treating machine learning as an isolated exercise, I focus on production concerns such as API performance, model explainability, deployment pipelines, and maintainable application structure.
+I like building things that actually solve real problems—from smart AI tools to clean full-stack utilities. When I'm not debugging or tweaking models, you'll probably find me exploring good cinema or diving into suspense mystery thrillers. 🎬🍿
 
-- **Areas of Specialization:** Machine learning pipelines, predictive modeling, scalable REST APIs, and data-driven web applications.
-- **Current Engineering Work:** Designing automated analytical tools, disaster coordination portals, and task automation frameworks.
-- **Technical Interests:** Deep learning architectures, LLM-assisted workflows, hydrological and telemetry data systems, and system design.
-- **Engineering Values:** Writing readable, modular code, verifying system assumptions with real metrics, and building practical utilities that solve concrete problems.
-- **Open To:** Machine learning internships, backend engineering roles, collaborative open-source projects, and research-focused software initiatives.
+* 🔭 **Currently Working On:** Smart prediction engines & full-stack web architectures
+* 🌱 **Exploring Deeply:** Deep Learning architectures & modern LLM workflows
+* 💬 **Let's Talk About:** Python, model optimization & building practical tech
+* 🤝 **Open For:** Exciting AI/ML collaborations, hackathons & developer roles
 
 ---
 
@@ -76,7 +76,7 @@ I build primarily with Python, modern web frameworks, and relational database sy
       <td align="center"><a href="https://github.com/Aniketsingh-45"><img src="https://img.shields.io/badge/View-Project-00F2FE?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="AAPDA-MITRA" /></a></td>
     </tr>
     <tr>
-      <td align="center"><b>🎙️️ Voice Assistant</b></td>
+      <td align="center"><b>🎙️ Voice Assistant</b></td>
       <td>Hands-free desktop voice assistant capable of automated web browsing, system control, task scheduling, and conversational queries.</td>
       <td align="center"><code>Python</code> • <code>SpeechRecognition</code> • <code>pyttsx3</code> • <code>Automation</code></td>
       <td align="center"><a href="https://github.com/Aniketsingh-45"><img src="https://img.shields.io/badge/View-Project-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Voice Assistant" /></a></td>

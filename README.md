@@ -68,7 +68,7 @@ I actively champion **prompt engineering** and **vibe coding** to dramatically a
       <th align="left">Description</th>
       <th align="center">Tech Stack</th>
       <th align="center">Explore</th>
-    </tr>
+    </tr>A
     <tr>
       <td align="center"><b>🎯 ResuSmart</b></td>
       <td>Smart resume analysis and skill-matching engine that scores resumes against target job descriptions with actionable feedback.</td>
@@ -349,3 +349,6 @@ I actively champion **prompt engineering** and **vibe coding** to dramatically a
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=100&section=footer" width="100%"/>
 </div>
+
+
+make the about me section short remove emoji make it clear and remove open cv, and mysql add postresql , give full code

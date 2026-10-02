@@ -41,17 +41,15 @@
 
 ## About Me
 
-<p align="left">
-  <img align="right" width="200" style="border-radius: 12px; margin-left: 20px; border: 2px solid #FE428E;" src="./IMG_20260721_231534.jpg.jpg" alt="Aniket Singh" />
-</p>
+I am a Computer Science and Engineering undergraduate focused on bridging practical machine learning systems with dependable software architecture. My work centers on building end-to-end applications where data processing, predictive modeling, and user interfaces connect into coherent products.
 
-B.Tech Computer Science student specializing in Python, machine learning workflows, and full-stack development. I focus on developing clean, practical AI solutions and data-driven web applications.
+I build primarily with Python, modern web frameworks, and relational database systems, pairing AI capabilities with clean software design principles. Rather than treating machine learning as an isolated exercise, I focus on production concerns such as API performance, model explainability, deployment pipelines, and maintainable application structure.
 
-- **Current Focus:** AI-driven applications, scalable APIs, and intelligent workflow automation.
-- **Interests:** Deep learning, Large Language Models (LLMs), and modern system design.
-- **Collaboration:** Open to AI/ML engineering, software development, and open-source initiatives.
-
-<br clear="all" />
+- **Areas of Specialization:** Machine learning pipelines, predictive modeling, scalable REST APIs, and data-driven web applications.
+- **Current Engineering Work:** Designing automated analytical tools, disaster coordination portals, and task automation frameworks.
+- **Technical Interests:** Deep learning architectures, LLM-assisted workflows, hydrological and telemetry data systems, and system design.
+- **Engineering Values:** Writing readable, modular code, verifying system assumptions with real metrics, and building practical utilities that solve concrete problems.
+- **Open To:** Machine learning internships, backend engineering roles, collaborative open-source projects, and research-focused software initiatives.
 
 ---
 
@@ -78,7 +76,7 @@ B.Tech Computer Science student specializing in Python, machine learning workflo
       <td align="center"><a href="https://github.com/Aniketsingh-45"><img src="https://img.shields.io/badge/View-Project-00F2FE?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="AAPDA-MITRA" /></a></td>
     </tr>
     <tr>
-      <td align="center"><b>🎙️ Voice Assistant</b></td>
+      <td align="center"><b>🎙️️ Voice Assistant</b></td>
       <td>Hands-free desktop voice assistant capable of automated web browsing, system control, task scheduling, and conversational queries.</td>
       <td align="center"><code>Python</code> • <code>SpeechRecognition</code> • <code>pyttsx3</code> • <code>Automation</code></td>
       <td align="center"><a href="https://github.com/Aniketsingh-45"><img src="https://img.shields.io/badge/View-Project-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Voice Assistant" /></a></td>

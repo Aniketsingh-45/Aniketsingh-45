@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/Aniketsingh-45">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FE&width=435&lines=Aniket+Singh;Software+Explorer;AI+%26+ML+Student" alt="Aniket Singh" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FE&width=435&lines=Aniket+Singh;Software+Explorer;AI+%26+ML+Student" alt="Aniket Singh ❤️" />
   </a>
   <a href="https://github.com/Aniketsingh-45">
     <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+Student;AI+%26+ML+Explorer;Full+Stack+%26+Vibe+Coding;Always+Building+%26+Learning&font=Fira%20Code&center=true&width=440&height=45&color=FE428E&vCenter=true&pause=1000&size=22" alt="Aniket Headline" />

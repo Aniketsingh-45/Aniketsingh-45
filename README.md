@@ -42,7 +42,7 @@
 ## ⚡ About Me 🚀
 
 Hey, I'm **Aniket**! 👋  
-A Computer Science student who genuinely enjoys turning ideas into working code. Most of my time goes into experimenting with **Machine Learning models** 🧠, designing snappy **FastAPI backends** ⚡, and crafting smooth user experiences. 
+A Computer Science student who genuinely enjoys turning ideas into working code. Most of my time goes into experimenting with **Machine Learning models** 🧠, designing snappy **FastAPI backends**⚡, and crafting smooth user experiences. 
 
 I like building things that actually solve real problems—from smart AI tools to clean full-stack utilities. When I'm not debugging or tweaking models, you'll probably find me exploring good cinema or diving into suspense mystery thrillers. 🎬🍿
 

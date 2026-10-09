@@ -39,7 +39,7 @@
 
 ---
 
-## ⚡ About Me🚀
+## ⚡ About Me 🚀
 
 Hey, I'm **Aniket**! 👋  
 A Computer Science student who genuinely enjoys turning ideas into working code. Most of my time goes into experimenting with **Machine Learning models** 🧠, designing snappy **FastAPI backends**⚡, and crafting smooth user experiences. 

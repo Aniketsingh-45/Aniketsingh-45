@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=Aniketsingh-45&label=Profile%20Views&color=FE428E&style=for-the-badge&base=0000" alt="Profile Views" style="vertical-align:middle" />
   </a>
   <a href="https://www.linkedin.com/in/aniketsingh45" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D1117" alt="LinkedIn" style="vertical-align:middle" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D1117" alt="LinkedIn" style="vertical-align:middle"/>
   </a>
   <a href="mailto:aniketsingh4500@gmail.com">
     <img src="https://img.shields.io/badge/Status-Open_For_Opportunities-00F5D4?style=for-the-badge&logo=codeforces&logoColor=black&labelColor=0D1117" alt="Status" style="vertical-align:middle" />
